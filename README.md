@@ -1,4 +1,4 @@
-# Remembrance-Quilts-Site/
+# Remembrance-Quilts-Site
 
 Main/
 README.md
