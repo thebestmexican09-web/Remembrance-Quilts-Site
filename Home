@@ -11,3 +11,5 @@ public_folder: "/uploads"
 ├─ app/
 │  ├─ layout.jsx
 update app/layout.jsx
+Command
+apt Git command-line
