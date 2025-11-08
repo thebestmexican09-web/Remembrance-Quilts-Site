@@ -11,3 +11,5 @@ public_folder: "/uploads"
   branch: master
 ├─ app/
 │  ├─ layout.jsx
+
+read app/layout.jsx and admin/config.yml
