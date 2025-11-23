@@ -1,1 +1,17 @@
+Home
+Main/README.md
+Remembrance-quilts/
+├─ admin/
+media_folder: "public/uploads"
+public_folder: "/uploads"
+│  ├─ index.html
+│  └─ config.yml backend:
+  name: git-gateway
+  branch: master
+├─ app/
+│  ├─ layout.jsx
+update app/layout.jsx
+Command
+apt Git command-line
 
+update
